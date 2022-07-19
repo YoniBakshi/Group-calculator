@@ -1,8 +1,4 @@
 ============================================================================
-  Full-Names : Yehonatan Bakshi & Hila Saadon
-  Written by = Hila Saadon  ,  id = 308077668  ,  login = yehonatanba
-  Written by = Hila Saadon  ,  id = 208405217  ,  login = hilasaa
-============================================================================
 Description : 
 This program is a Group Calculator. 
 Overall, there are 5 operations available : Union, Intersection, Difference, Product, Composite
@@ -54,15 +50,7 @@ Composite.cpp		-> מחלקה זו מפעילה את פעולת ההרכבה (מ�
 ==============================================================================
 
 Data Structure :
-We used a vector of shared_ptr to hold each pointer in a single group, vector of shared_ptr to hold the operations list,
+vector of shared_ptr to hold each pointer in a single group, vector of shared_ptr to hold the operations list,
 
-==============================================================================
-
-Algorithms :
-
-==============================================================================
-
-Known Bugs :
-
-==============================================================================
-
+============================================================================
+Full-Names : Yehonatan Bakshi & Hila Saadon
